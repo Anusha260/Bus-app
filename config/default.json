@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Anusha:Anusha@busapp.w8skw.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"myScerettoken"
+}
